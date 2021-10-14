@@ -1,0 +1,17 @@
+INSERT INTO `equipe` (`id`, `nom`, `mascotte`, `nb_joueurs`, `lieu`) VALUES
+(1, 'Lille OSC', 'Chien', 22, 'Stade Pierre Maurois'),
+(3, 'solary', 'soleil', 15, 'quelque part'),
+(4, 'equipe du nord', 'glaçon', 3, 'Lille'),
+(5, 'Equipe du nord est', 'michel', 15, 'Reims'),
+(6, 'equipe de l\'est', 'bretzel', 4, 'Strasbourg'),
+(7, 'equipe du sud est', 'soleil', 9, 'marseille'),
+(8, 'equipe du sud', 'mer', 16, 'Toulouse'),
+(9, 'equipe du sud ouest', 'notre dame', 34, 'Lourde'),
+(10, 'equipe du sud ouest ouest', 'vin', 27, 'bordeau'),
+(11, 'equipe de l\'ouest', 'crêpe', 3, 'Brest'),
+(12, 'equipe du nord ouest', 'GT40', 35, 'Mans'),
+(13, 'equipe du centre nord', 'CO2', 45, 'Paris'),
+(14, 'equipe perdue', 'Puys du fou', 1, 'diagonale du vide'),
+(15, 'équipe des vieux', 'ephad', 57, 'PACA'),
+(16, 'équipe des jeunes', 'Doudou', 15, 'crèche'),
+(17, 'équipe des étudiants', 'Crous', 29, 'université');
